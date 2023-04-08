@@ -1,5 +1,5 @@
 ﻿# Notes-Website
-Bước 1: Chạy file main.py
+### Bước 1: Chạy file main.py
 
 Một bảng thông báo sẽ được hiển thị: Hãy truy cập vào link http://127.0.0.1:5000 để tiến hành xem trang web
 
