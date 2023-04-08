@@ -11,3 +11,10 @@ Press CTRL+C to quit
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 975-451-836
+ ### Bước 2: Đăng ký tài khoản và truy cập trang chủ của web
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/76843467/230738615-252da540-caaf-4d96-bef0-200d02e7fa64.png">
+Sau khi đăng ký tài khoản thành công thì trang web sẽ xuất hiện giao diện trang chủ:
+<img width="933" alt="image" src="https://user-images.githubusercontent.com/76843467/230738699-b58e2f59-9d36-4d23-b247-1439fffd1acc.png">
+Bạn có thể note linh tinh :))
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/76843467/230738717-62172ea9-8bf8-4c97-8fd2-6e3fcdc8cc7e.png">
+Và xóa nó nếu hok thích
